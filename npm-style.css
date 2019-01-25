@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+.top-links {
+    float: right;
+    padding: 0;
+    margin: 0 0 0 0;
+ }
+ .top-links li {
+    display: inline-block;
+    margin: 0 10px;
+ }
+.header-class {
+    background: url(file:///home/xavivax/prework/npm/starter-code/images/city-scape.svg) 0 0 no-repeat;
+    height: 350px;
+    width: auto;
+    padding-top: 0px;
+    position: relative;
+    color: white;
+    background-color:rgb(32, 101, 136);
+
+ }
+ .header-part2 {
+    width: 350px;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+.whatis-class{
+  background: url(file:///home/xavivax/prework/npm/starter-code/images/forklift.svg) 0 0 no-repeat;
+  background-size: cover;
+  height: 350px;
+  padding-top: 50px;
+  position: relative;
+}
+.whatis-div{
+    color: white;
+    margin-left: 180px;
+    margin-bottom: 300px;
+    margin-right: 720px;
+    margin-top: 50px;
+    /*width: 200px;*/
+    position: absolute;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.link-btn {
+    background-color: rgb(240, 146, 51);
+    display: block;
+    border-radius: 18px;
+    font-family: 'Source+Sans+Pro';
+    letter-spacing: 0.5px;
+    margin: 0 auto;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    height: 35px;
+  }
+  #header .link-btn {
+    font-size: 1em;
+    background-color: rgb(240, 146, 51);
+    padding: 0px  0px;
+    width: 200px;
+  }
+  #collaboration-section .link-btn {
+    font-size: 1em;
+    background-color: rgb(203, 56, 55);
+    width: 400px;
+  }  
+  #whatis-section .link-btn {
+    font-size: 1em;  
+    background-color: rgb(49, 68, 88);
+    width: 100px;
+  }
+.collab-class{
+    height: 300px;
+    width: auto;
+    background-color: rgb(39, 53, 71);
+    color: white;
+}
+.section1-first-div{
+    height:200px;
+    width: 350px;
+    padding-top: 45px;
+    padding-left: 250px;
+}
+.section1-second-div{
+    float: right;
+    margin: 0 auto;
+}
+
+body {
+    font-family: 'Source Sans Pro', 'Lucida Grande';
+    font-size: 0.875em;
+}
+.dark-background {
+    background-color: rgb(25, 33, 41);
+    color: #fff;
+  }
+
+.clearfix {
+    clear: both;
+ }
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 30px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-left{
+  margin: 10px 0 10px 10%;
+  width: 1200px;
+}
+.col {
+  float: left;
+}
+  
+.col-3 {
+  width: 20%;
+  margin: 10px 0 10px 10%;
+}
+.col-middle {
+  margin: 10px 0 10px 10%;
+}
+  
+
+
+.container-third-div {
+    margin: 0 auto;
+    padding: 75px 0;
+    width: 1200px;
+}
+.third-section-text{
+    font-size: 1.9em;
+    margin: 10px auto;
+    text-align: center;
+    width: 60%
+}
+
+
